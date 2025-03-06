@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class test_review_ApiService : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """D:\Git\Spike\test-review\test-review.ApiService\test-review.ApiService.csproj""";
+    public string ProjectPath => """d:\Git\Spike\test-review\test-review.ApiService\test-review.ApiService.csproj""";
 }

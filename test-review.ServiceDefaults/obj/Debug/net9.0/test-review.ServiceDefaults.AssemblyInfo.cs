@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test-review.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+995b6b0b5e44878f25da59724c5cc5d09e0f1558")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1998f06706f6e8c9a17e25894920c56d43c5b6cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("test-review.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test-review.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

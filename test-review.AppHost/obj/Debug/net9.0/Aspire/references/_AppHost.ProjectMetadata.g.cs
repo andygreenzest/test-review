@@ -8,5 +8,5 @@ namespace Projects;
 public class test_review_AppHost
 {
     private test_review_AppHost() { }
-    public static string ProjectPath => """D:\Git\Spike\test-review\test-review.AppHost""";
+    public static string ProjectPath => """d:\Git\Spike\test-review\test-review.AppHost""";
 }
